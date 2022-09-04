@@ -11,11 +11,7 @@
 
 ---
 
-### Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tz4uzhjaatwwdb3jo5cqc5qusi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
----
 
 ### Connect with me:
 
@@ -43,7 +39,11 @@
 <br />
 
 ---
+### Spotify Playing
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tz4uzhjaatwwdb3jo5cqc5qusi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
