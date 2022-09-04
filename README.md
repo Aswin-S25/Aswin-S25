@@ -13,7 +13,7 @@
 
 ### Spotify Playing
 
-[<img src="https://spotify-play-now-virid.vercel.app/" alt="codeSTACKг Spotify Playing" width="350"/>] (https://open.spotify.com/user/31tz4uzhjaatwwdb3jo5cqc5qusi)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tz4uzhjaatwwdb3jo5cqc5qusi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
