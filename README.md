@@ -12,10 +12,10 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aswin-s-a2b99b243)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aswin-s-a2b99b243/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/as__win_s/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/as__win_s/)
 
 ### Languages and Tools:
