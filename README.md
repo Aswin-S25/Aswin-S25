@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about backend
 - ⚡ Fun fact: I love to play keyboard
 
 ---
