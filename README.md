@@ -4,9 +4,9 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently learning Blockchain Technology
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about backend
+- 🥅 2023 Goals: Learn more about backend
 - ⚡ Fun fact: I love to play keyboard
 
 ---
