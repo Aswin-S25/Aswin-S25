@@ -28,8 +28,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswin-s25&show_icons=true&locale=en" alt="aswin-s25" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswin-s25" alt="aswin-s25" /></a> </p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-s25&" alt="aswin-s25" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswin-s25" alt="aswin-s25" /></a> </p>
 
 
