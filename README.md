@@ -4,10 +4,9 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning Blockchain Technology
+- 🌱 I’m currently learning AI Technology
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about backend
-- ⚡ Fun fact: I love to play keyboard
+- ⚡ Fun fact: It’s all 0’s and 1’s
 
 ---
 
